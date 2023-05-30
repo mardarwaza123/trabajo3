@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="@*rEdy(0KpK3GDW7JE)+">oni-cha</variable></variables><block type="device_button_event" id="eHM4BliVf)VqriJ!ZDvx" x="-475" y="9"><field name="NAME">Button.A</field></block><block type="device_forever" id="x6SB;,N6f(exJM=um!$_" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="TA26BC#3$gs|f9M_zqXE"><field name="LEDS">`
+        # # . . # 
+        # # . # . 
+        . . # . . 
+        # # . # . 
+        # # . . #
+        `</field><next><block type="device_pause" id="sb:OA~I0$v7mC@*Rcx*9"><value name="pause"><shadow type="timePicker" id="[7f3A?Z-!i_jH1+p_7r0"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="jjfXdugEj__Y+pa$7+;C"><field name="LEDS">`
+        # # . . . 
+        # # . . . 
+        . . # # # 
+        # # . . . 
+        # # . . .
+        `</field><next><block type="device_pause" id="CloOMEty|eEQsTT1xg%="><value name="pause"><shadow type="timePicker" id=";*8!io}KBH#]@/qFd/+K"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
